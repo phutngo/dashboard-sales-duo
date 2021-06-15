@@ -1,3 +1,12 @@
+# Steps I took
+1. Yarn install
+2. Add .env to be able to run yarn start
+3. Deleted react boilerplates
+4. Updated Loader component to be cooler
+
+
+
+---------------------------------------------
 # Sales Duo Assignment 
 Developed a dynamic Responsive and interactive Admin panel as asked in asignment
 live here : https://vibrant-kirch-04c981.netlify.app/
